@@ -5,7 +5,7 @@ Autor: **Yuri C. de Brito Scaranni**
 
  
 **Resumo**:
-*Como parte integrante do trabalho de conclusão de curso apresento esta abordagem didática sobre o funcionamento de um projeto ETL. A metodologia é realizar a coleta de dados referentes ao coronavirus no Brasil e através de scripts em Python com SQL organizar uma estrutura que possibilite a análise desses dados.*
+*Como parte integrante do trabalho de conclusão de curso apresento esta abordagem didática sobre o funcionamento de um projeto ETL. O objetivo é realizar a coleta de dados referentes ao coronavirus no Brasil e através de scripts em Python com SQL organizar uma estrutura que possibilite a análise desses dados.*
 > Este trabalho foi desenvolvido utilizando python na versão 3.6.8.
 
 # 1 - Extração
