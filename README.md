@@ -9,7 +9,7 @@ Autor: **Yuri C. de Brito Scaranni**
 > Este trabalho foi desenvolvido utilizando python na versão 3.6.8.
 
 # 1 - Extração
-Extrair dados referentes ao COVID-19 e armazená-los em uma tabela dentro do banco de dados MySQL é o nosso objetivo, além disso precisamos garantir que somente dados novos sejam inseridos, sem duplicidade e criar um agendamento para que essa extração aconteça todos os dias, mantendo assim os dados sempre atualizados.
+Extrair dados referentes ao COVID-19 e armazená-los em uma tabela dentro do banco de dados MySQL é o nosso objetivo, além disso precisamos garantir que somente dados novos sejam inseridos, sem duplicidade.
 
 Para iniciar a extração precisamos da biblioteca ***requests***:  `pip install requests`. Com ela instalada podemos executar o código [extração](https://github.com/yuri-scaranni/Ciencia_de_dados/blob/main/extract.py "extract.py").
 > python extract.py
