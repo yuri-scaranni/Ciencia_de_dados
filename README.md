@@ -32,7 +32,7 @@ Precisamos de duas bibliotecas para isso:
  1. Instalar biblioteca SQLAlchemy `pip install sqlalchemy`.
  2. Instalar biblioteca PyMySQL `pip install pymysql`.
 
-> Neste passo precisaremos que uma base de dados esteja disponível para uso, caso não existe, podemos criar através do comando `CREATE DATABASE estudo;`
+> Neste passo precisaremos que uma base de dados esteja disponível para uso, caso não exista, podemos criar através do comando `CREATE DATABASE estudo;`
 
 Com tudo instalado podemos executar o script de [Carga](https://github.com/yuri-scaranni/Ciencia_de_dados/blob/main/load.py "load.py").
 > python load.py
